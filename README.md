@@ -1,8 +1,4 @@
-## FALA DEVS! EU SOU A MAJU 👋 
-<div>
-  <img src="https://camo.githubusercontent.com/8fd6f6ad1e317e23af1dcaf00ba156ebc5f77498120b6cda4527a61d3844fa94/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966">
-</div>
-
+## FALA DEVS! EU SOU A MAJU 👋
 <div>
   <a href=""></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaamarall&show_icons=true&theme=radical">
@@ -28,8 +24,3 @@
 </div>
 
 <br>
-<div>
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1MzAzNDksIm5iZiI6MTcxOTUzMDA0OSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI3VDIzMTQwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkOTU3MmU4ZDgzYTYyYWM2YjFhMzA2OGI4M2NjYzY4ZmVjNTRlODk2NjJmOTZmYzg4MDFlYTQ0NDY3YjNiZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cGsXbVqXf_LviDYObXRjHyX0ksI4crYjqTHwLDy8r6A">
-</div>
-
-
