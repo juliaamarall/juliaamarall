@@ -1,4 +1,8 @@
-## FALA DEVS! EU SOU A MAJU 👋
+## FALA DEVS! EU SOU A MAJU 👋 
+<div>
+  <img src="https://camo.githubusercontent.com/8fd6f6ad1e317e23af1dcaf00ba156ebc5f77498120b6cda4527a61d3844fa94/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966">
+</div>
+
 <div>
   <a href=""></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaamarall&show_icons=true&theme=radical">
