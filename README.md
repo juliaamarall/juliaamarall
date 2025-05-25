@@ -1,5 +1,4 @@
 # 👋 Hello, Devs! I'm Maju  
-<br>
 <img height="40" src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" />
 
 I'm a front-end developer passionate about technology, design, and creative solutions. Currently, I'm focused on studying JavaScript, React, and Next.js.
@@ -52,9 +51,7 @@ I love turning ideas into functional, accessible interfaces with great user expe
 
 ## 🌱 Currently Learning  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 </div>
 
